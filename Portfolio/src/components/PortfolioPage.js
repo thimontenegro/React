@@ -9,7 +9,7 @@ const PortfolioPage = (props) => {
             <p>Checkout the stuff i've done : </p>
             <Link to='/portfolio/1'> Item 1 </Link>
             <Link to='/portfolio/2'> Item 2 </Link>
-            
+    
         </div>
     );
 }
